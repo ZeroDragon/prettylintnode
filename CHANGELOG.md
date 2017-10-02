@@ -7,10 +7,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.2.0] - 2017-10-01
 ### Added
-LICENCE file
+- LICENCE file
 
 ### Changed
-Changelog changed from default
+- Changelog changed from default
 
 ## [1.1.0] - 2017-10-01
 ### Added

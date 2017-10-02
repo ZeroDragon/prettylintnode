@@ -2,7 +2,7 @@
     "name": "prettylintednode",
     "displayName": "PrettyLintedNode",
     "description": "This pack helps to use ESLint + Prettier seamessly in your code",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "ZeroDragon",
     "engines": {
         "vscode": "^1.16.0"
